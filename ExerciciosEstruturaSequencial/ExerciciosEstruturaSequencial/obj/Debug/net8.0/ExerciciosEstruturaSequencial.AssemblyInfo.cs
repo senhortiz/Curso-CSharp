@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosEstruturaSequencial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+773fb0239c59f3b56782a554ee962eeab525c4ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75675cb3aa4d6441ef620378d0f388b3634b105a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosEstruturaSequencial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosEstruturaSequencial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
