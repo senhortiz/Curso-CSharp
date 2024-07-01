@@ -1,0 +1,15 @@
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\net8.0\ExerciciosEstruturaSequencial.exe
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\net8.0\ExerciciosEstruturaSequencial.deps.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\net8.0\ExerciciosEstruturaSequencial.runtimeconfig.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\net8.0\ExerciciosEstruturaSequencial.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\bin\Debug\net8.0\ExerciciosEstruturaSequencial.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.AssemblyInfo.cs
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.sourcelink.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\refint\ExerciciosEstruturaSequencial.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ExerciciosEstruturaSequencial.genruntimeconfig.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaSequencial\ExerciciosEstruturaSequencial\obj\Debug\net8.0\ref\ExerciciosEstruturaSequencial.dll
