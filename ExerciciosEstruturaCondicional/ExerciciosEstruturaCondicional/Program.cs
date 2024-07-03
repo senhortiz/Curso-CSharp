@@ -131,7 +131,26 @@ namespace ExerciciosEstruturaCondicional
                 duracao = 24;
             }
 
-                Console.WriteLine($"O jogo durou {duracao} hora(s)" );
+            Console.WriteLine($"O jogo durou {duracao} hora(s)");
+
+            Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
+            Console.ReadKey();
+        }
+
+        public static void Exercicio5()
+        {
+            Console.Clear();
+            Console.WriteLine("Informe o código do produto seguido da quantidade: ");
+            string[] vetor = Console.ReadLine().Split(" ");
+            int codigo = int.Parse(vetor[0]);
+            int quantidade = int.Parse(vetor[1]);
+
+            double preco;
+
+            if (codigo == 1)
+            {
+                Console.WriteLine($"Total: {preco * quantidade}");
+            }
 
             Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
             Console.ReadKey();
