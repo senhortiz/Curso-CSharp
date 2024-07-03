@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gqRBGPts5XU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hector.luiz\\Documents\\Curso C#\\Curso-CSharp\\ExerciciosEstruturaCondicional\\ExerciciosEstruturaCondicional\\ExerciciosEstruturaCondicional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hector.luiz\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.6\\microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512",
+    "C:\\Users\\hector.luiz\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\hector.luiz\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.6\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
