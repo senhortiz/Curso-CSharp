@@ -1,0 +1,15 @@
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.AssemblyInfoInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.AssemblyInfo.cs
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.sourcelink.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\bin\Debug\net8.0\ExerciciosEstruturaWhile.exe
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\bin\Debug\net8.0\ExerciciosEstruturaWhile.deps.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\bin\Debug\net8.0\ExerciciosEstruturaWhile.runtimeconfig.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\bin\Debug\net8.0\ExerciciosEstruturaWhile.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\bin\Debug\net8.0\ExerciciosEstruturaWhile.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\refint\ExerciciosEstruturaWhile.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ExerciciosEstruturaWhile.genruntimeconfig.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExerciciosEstruturaWhile\ExerciciosEstruturaWhile\obj\Debug\net8.0\ref\ExerciciosEstruturaWhile.dll

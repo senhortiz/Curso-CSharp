@@ -1,0 +1,15 @@
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.AssemblyInfoInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.AssemblyInfo.cs
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.sourcelink.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\bin\Debug\net8.0\ExercicioEstruturaFor.exe
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\bin\Debug\net8.0\ExercicioEstruturaFor.deps.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\bin\Debug\net8.0\ExercicioEstruturaFor.runtimeconfig.json
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\bin\Debug\net8.0\ExercicioEstruturaFor.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\bin\Debug\net8.0\ExercicioEstruturaFor.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\refint\ExercicioEstruturaFor.dll
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.pdb
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ExercicioEstruturaFor.genruntimeconfig.cache
+C:\Users\hector.luiz\Documents\Curso C#\Curso-CSharp\ExercicioEstruturaFor\ExercicioEstruturaFor\obj\Debug\net8.0\ref\ExercicioEstruturaFor.dll
