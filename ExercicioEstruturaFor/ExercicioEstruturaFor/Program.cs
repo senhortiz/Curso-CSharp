@@ -22,6 +22,8 @@ namespace ExercicioEstruturaFor
             Console.WriteLine("2) Exercício 2 - In or Out");
             Console.WriteLine("3) Exercício 3 - Média por peso");
             Console.WriteLine("4) Exercício 4 - Divisão de dois numeros");
+            Console.WriteLine("5) Exercício 5 - Numero fatorial");
+            Console.WriteLine("6) Exercício 6 - Divisores");
             Console.WriteLine("ESC) Sair");
             ConsoleKeyInfo key = Console.ReadKey();
 
@@ -42,6 +44,14 @@ namespace ExercicioEstruturaFor
                 case ConsoleKey.D4:
                 case ConsoleKey.NumPad4:
                     Exercicio4();
+                    break;
+                case ConsoleKey.D5:
+                case ConsoleKey.NumPad5:
+                    Exercicio5();
+                    break;
+                case ConsoleKey.D6:
+                case ConsoleKey.NumPad6:
+                    Exercicio6();
                     break;
                 case ConsoleKey.Escape:
                     return false;
@@ -138,18 +148,56 @@ namespace ExercicioEstruturaFor
                 int n1 = int.Parse(vetor[0]);
                 int n2 = int.Parse(vetor[1]);
 
-                if (n1 == 0)
-                {
-                    Console.WriteLine("0.0");
-                }
-                else if (n2 == 0) 
+                if (n2 == 0)
                 {
                     Console.WriteLine("Divisão Impossivel");
                 }
-                else 
+                else
                 {
-                    soma = n1 / n2;
-                    Console.WriteLine(soma.ToString("F1", CultureInfo.InvariantCulture));
+                    double div = (double)n1 / n2;
+                    Console.WriteLine(div.ToString("F1", CultureInfo.InvariantCulture));
+                }
+            }
+            Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
+            Console.ReadKey();
+        }
+
+        public static void Exercicio5()
+        {
+            Console.Clear();
+            Console.WriteLine("Informe o numero a qual gostaria de verificar o fator vetorial: ");
+            int N1 = int.Parse(Console.ReadLine());
+            int fat = 1;
+
+            for (int i = 1;i <= N1;i++)
+            {
+                fat = fat * i;
+            }
+
+            Console.WriteLine(fat);
+            Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
+            Console.ReadKey();
+        }
+
+        public static void Exercicio6()
+        {
+            Console.Clear();
+            Console.WriteLine("Informe um numero inteiro para retornar seus divisores: ");
+            int N1 = int.Parse(Console.ReadLine());
+            int div = 1;
+
+            for (int i = 1; i <= N1;i++)
+            {
+                div = N1 / i;
+                int resto = N1 % i;
+
+                if (resto == 0)
+                {
+                    Console.WriteLine(div);
+                }
+                else
+                {
+                 
                 }
             }
             Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
